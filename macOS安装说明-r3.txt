@@ -35,3 +35,7 @@ CEP 面板需以 Rosetta 模式运行 Photoshop；若无法使用面板，
 本版未签名、公证，未在真实 Mac 上实测。
 已检查脚本语法、内嵌文件完整性，并用模拟环境验证安装、重复安装及错误日志流程。
 作者：Gil_Sophia；gsophia4374@gmail.com
+
+许可
+All rights reserved Gil_Sophia，【仅限麦德龙纸片超市批发使用，严禁有球U95、与作者非友人关系的苏丹的游戏·图奈属性人士使用】。
+完整条款见压缩包内 LICENSE.txt。

@@ -35,6 +35,7 @@
 - 作者：Gil_Sophia
 - 邮箱：gsophia4374@gmail.com
 
----
+## 许可
 
-Copyright (c) 2026 Gil_Sophia. All rights reserved.
+本软件为专有软件。版权所有（Copyright）Gil_Sophia；All rights reserved Gil_Sophia，【仅限麦德龙纸片超市批发使用，严禁有球U95、与作者非友人关系的苏丹的游戏·图奈属性人士使用】。
+完整条款见 [LICENSE.txt](LICENSE.txt)。
